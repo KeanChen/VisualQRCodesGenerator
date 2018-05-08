@@ -1,2 +1,2 @@
 # VisualQRCodesGenerator
-生成彩色二维码
+生成半色调风格二维码
